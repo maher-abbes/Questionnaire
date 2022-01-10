@@ -1,0 +1,161 @@
+{
+    "name": "Satisfaction with Life Scale",
+    "instructions": "Please indicate your agreement or disagreement with the following statement. Please be open and honest in your responding.",
+    "questions": [
+        {
+            "text": "Quels sont vos styles de musique préférés ? ",
+            "answers": [
+                {
+                    "text": "Rock",
+                    "score": 7
+                },
+                {
+                    "text": "Pop",
+                    "score": 6
+                },
+                {
+                    "text": "Rap",
+                    "score": 5
+                },
+                {
+                    "text": "Oriental",
+                    "score": 4
+                },
+                {
+                    "text": "Classique",
+                    "score": 3
+                },
+                {
+                    "text": "Metal",
+                    "score": 2
+                },
+                {
+                    "text": "Jazz",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Quels sont vos différents types de loisirs ? ",
+            "answers": [
+                {
+                    "text": "Activités outdoor et sports ?",
+                    "score": 7
+                },
+                {
+                    "text": "Loisirs de détente (jeux, art, lecture) ",
+                    "score": 6
+                },
+                {
+                    "text": "Loisirs créatifs (poterie,...) ",
+                    "score": 5
+                },
+                {
+                    "text": "Loisirs culturels ",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "text": "Quel est le nombre moyen des livres lus chaque année ?",
+            "answers": [
+                {
+                    "text": "0-5 ",
+                    "score": 7
+                },
+                {
+                    "text": "5-15 ",
+                    "score": 6
+                },
+                {
+                    "text": "15-25 ",
+                    "score": 5
+                },
+                {
+                    "text": "25< ",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "text": "Quel est votre genre de film préféré ?",
+            "answers": [
+                {
+                    "text": "Horreur ",
+                    "score": 7
+                },
+                {
+                    "text": "Drame ",
+                    "score": 6
+                },
+                {
+                    "text": "Romance ",
+                    "score": 5
+                },
+                {
+                    "text": "Comédie",
+                    "score": 4
+                },
+                {
+                    "text": "Action et aventure ",
+                    "score": 3
+                },
+                {
+                    "text": "Mystère",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "text": "Quel type de voyageur êtes-vous ? ",
+            "answers": [
+                {
+                    "text": "Campeur ",
+                    "score": 7
+                },
+                {
+                    "text": "Impulsif ",
+                    "score": 6
+                },
+                {
+                    "text": "Planificateur ",
+                    "score": 5
+                },
+                {
+                    "text": "Solitaire  ",
+                    "score": 4
+                }
+            ]
+        }
+    ],
+    "interpretations": [
+        {
+            "score": 31,
+            "text": "Extremely satisfied"
+        },
+        {
+            "score": 26,
+            "text": "Satisfied"
+        },
+        {
+            "score": 21,
+            "text": "Slightly satisfied"
+        },
+        {
+            "score": 20,
+            "text": "Neutral"
+        },
+        {
+            "score": 15,
+            "text": "Slightly dissatisfied"
+        },
+        {
+            "score": 10,
+            "text": "Dissatisfied"
+        },
+        {
+            "score": 5,
+            "text": "Extremely dissatisfied"
+        }
+    ]
+}
